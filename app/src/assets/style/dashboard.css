@@ -1,0 +1,19 @@
+.dashboard{
+  width: 90%;
+  margin: 0px auto;
+  text-align: center;
+}
+.dashboard_row{
+  display: inline-block;
+  width: 46%;
+  margin: 30px 2%;
+  vertical-align: top;
+  text-align: left;
+}
+.dashboard_row .page_headline{
+  padding: 0px 5%;
+}
+.dashboard_project_empty{
+  padding: 40px 5%;
+  font-size: 130%;
+}
